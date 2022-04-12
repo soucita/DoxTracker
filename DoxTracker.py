@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/@jkesmiofeaeiou
+
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                           
 #   ~ DoxTracker 1.0 beta ~                            
